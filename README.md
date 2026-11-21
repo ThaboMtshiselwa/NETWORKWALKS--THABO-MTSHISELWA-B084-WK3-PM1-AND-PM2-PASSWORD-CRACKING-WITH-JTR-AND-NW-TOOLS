@@ -222,4 +222,10 @@ Extract hash → Feed to cracker → Recover password → Unlock file
 
 Whether using Johnny GUI with JTR or a browser-based NetworkWalks tool, the underlying method is identical. Password cracking is a systematic process, not magic — and defenders must assume attackers have these tools readily available.
 
+**Author**: Thabo Mtshiselwa
+
+**Program**: Cybersecurity program at Networkwalks | Week: 03 | Cybersecurity Professional B084
+
+**Date**: 21 November 2026
+
 
